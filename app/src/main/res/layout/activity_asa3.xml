@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".asa3"
+    android:orientation="vertical"
+    android:background="@color/teal_200"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DOCTOR DETAILS"
+        android:textStyle="italic|bold"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NAME"
+        android:textSize="20dp"
+        android:textStyle="bold|italic"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="40dp"
+
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SPECIALIST"
+        android:textSize="20dp"
+        android:textStyle="bold|italic"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="40dp"
+
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="HOSPITAL NAME"
+        android:textSize="20dp"
+        android:textStyle="bold|italic"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="40dp"
+
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FEES"
+        android:textSize="20dp"
+        android:textStyle="bold|italic"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="40dp"
+
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DISTANCE"
+        android:textSize="20dp"
+        android:textStyle="bold|italic"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="40dp"
+
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TIMING"
+        android:textSize="20dp"
+        android:textStyle="bold|italic"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="40dp"
+
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MOBILE NO."
+        android:textSize="20dp"
+        android:textStyle="bold|italic"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="40dp"
+
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Email ID"
+        android:textSize="20dp"
+        android:textStyle="bold|italic"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="40dp"
+
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="APPOINTMENT"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        />
+
+
+
+
+
+</LinearLayout>
